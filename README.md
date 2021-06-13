@@ -1,12 +1,13 @@
 # *Sorting and Searching Algorithm Visualiser*
 
-A console based sorting and searching algorithm visualiser made using the ``` graphics.h ``` library.
+A console based sorting and searching algorithm visualizer made using the ``` graphics.h ``` library.
 
 * The sorting algorithms visualised are:
   * Bubble Sort
   * Selection Sort
   * Insertion Sort
-* The Searching Algorithms visualiser are:
+
+* The Searching Algorithms visualised are:
   * Linear Search
   * Binary Search
 
