@@ -42,11 +42,11 @@ Download the ```algovisualiser.exe``` and run it.
 
 ![3_bubble](https://user-images.githubusercontent.com/69712963/121815404-f2c22280-cc93-11eb-8375-464e477f9125.gif)
 
-#### 1. Selection Sort
+#### 2. Selection Sort
 
 ![4_sele](https://user-images.githubusercontent.com/69712963/121815369-c4dcde00-cc93-11eb-98ae-e0e7dceb681f.gif)
 
-#### 1. Insertion Sort
+#### 3. Insertion Sort
 
 ![5_ins](https://user-images.githubusercontent.com/69712963/121815316-6f083600-cc93-11eb-8473-7981cf4e8506.gif)
 
