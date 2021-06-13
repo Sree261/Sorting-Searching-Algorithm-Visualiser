@@ -11,7 +11,7 @@ A console based sorting and searching algorithm visualiser made using the ``` gr
   * Binary Search
 
 # USAGE
-Download the ```algovisualiser.exe``` and run it.
+Download the [algovisualiser.exe](https://github.com/Sree261/Sorting-Searching-Algorithm-Visualiser/raw/master/algovisualiser.exe) and run it.
 
 **NOTE: After giving the inputs click on the newly formed window and keep pressing enter to view the animations.**
 
