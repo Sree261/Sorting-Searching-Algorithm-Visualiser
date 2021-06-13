@@ -25,12 +25,12 @@ Download the ```algovisualiser.exe``` and run it.
 
 #### 1. Linear Search
 
-https://user-images.githubusercontent.com/69712963/121813979-429ceb80-cc8c-11eb-8601-3146976cfc1c.mp4
+![1_linearsearch](https://user-images.githubusercontent.com/69712963/121815145-8a267600-cc92-11eb-8e4d-d7c5da71b152.gif)
+
 
 #### 2. Binary Search
 
-https://user-images.githubusercontent.com/69712963/121813996-5a746f80-cc8c-11eb-890c-d8c71044b1ac.mp4
-
+![2_binary](https://user-images.githubusercontent.com/69712963/121815430-243aee00-cc94-11eb-93f4-7ff562b171f3.gif)
 
 ## 2. Sorting Algorithms
 
@@ -40,13 +40,14 @@ https://user-images.githubusercontent.com/69712963/121813996-5a746f80-cc8c-11eb-
 
 #### 1. Bubble Sort
 
-https://user-images.githubusercontent.com/69712963/121814000-5d6f6000-cc8c-11eb-9786-2d1e2a9a5887.mp4
+![3_bubble](https://user-images.githubusercontent.com/69712963/121815404-f2c22280-cc93-11eb-8375-464e477f9125.gif)
 
 #### 1. Selection Sort
 
-https://user-images.githubusercontent.com/69712963/121814001-5f392380-cc8c-11eb-86be-c7e444b48dad.mp4
+![4_sele](https://user-images.githubusercontent.com/69712963/121815369-c4dcde00-cc93-11eb-98ae-e0e7dceb681f.gif)
 
 #### 1. Insertion Sort
 
-https://user-images.githubusercontent.com/69712963/121814002-606a5080-cc8c-11eb-985a-338a55f2df33.mp4
+![5_ins](https://user-images.githubusercontent.com/69712963/121815316-6f083600-cc93-11eb-8473-7981cf4e8506.gif)
+
 
