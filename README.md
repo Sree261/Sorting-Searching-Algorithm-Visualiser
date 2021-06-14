@@ -51,6 +51,5 @@ Download the [algovisualiser.exe](https://github.com/Sree261/Sorting-Searching-A
 
 ![5_ins](https://user-images.githubusercontent.com/69712963/121815316-6f083600-cc93-11eb-8473-7981cf4e8506.gif)
 
-Extra line
 
 
