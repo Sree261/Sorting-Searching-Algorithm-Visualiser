@@ -1,4 +1,4 @@
-# *Sorting and Searching Algorithm Visualiser*
+# *Sorting and Searching Algorithm Visualizer*
 
 A console based sorting and searching algorithm visualizer made using the ``` graphics.h ``` library.
 
