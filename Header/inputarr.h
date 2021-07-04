@@ -6,9 +6,12 @@
 using namespace std;
 class ip:public sortarr,public searcharr{
 public:
+    void draw(vector<int> &arr,int size);
+    void create_window(int val);
     void ip_arr(vector<int>&arr);
     void selectsort();
     void selectsearch();
+    
 };
 
 
