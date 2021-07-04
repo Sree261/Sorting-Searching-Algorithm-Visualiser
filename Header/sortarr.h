@@ -15,6 +15,9 @@ class sortarr{
     void insertionsort(vector<int>&arr);
     void selectionsort(vector<int>&arr);
     void bubblesort(vector<int>&arr);
+    
+    virtual void draw(vector<int> &arr,int size);
+    virtual void create_window(int val);
 
 };
 
