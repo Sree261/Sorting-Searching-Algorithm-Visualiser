@@ -19,6 +19,9 @@ public:
     void ele_notequalleft(int i);
     void linearsearch(vector<int>&arr,int ele);
     void binarysearch(vector<int>&arr,int ele);
+    
+    virtual void draw(vector<int> &arr,int size);
+    virtual void create_window(int val);
 };
 
 
