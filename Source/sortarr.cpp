@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 #include<graphics.h>
 #include "sortarr.h"
-#include "draw_fns.h"
 
 using namespace std;
 
